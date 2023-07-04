@@ -1,6 +1,6 @@
 ### Ola sou Jonathas-Felipe 👋
 
-- Estou estudando Html5, CSS e JavaScript, no momento procurando minha primeira oportunidade na área de programação e estou cursando o 5º Semestre de GTI (Gestão da Técnologia da Informação).
+- Estou estudando Html5, CSS e JavaScript, no momento procurando minha primeira oportunidade na área de programação e estou cursando o 5º Semestre de GTI (Gestão da Tecnologia da Informação).
 
 <div align="center">
   <a href="https://github.com/DevBatista1">
