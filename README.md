@@ -1,5 +1,7 @@
 ### Ola sou Jonathas-Felipe 👋
 
+- Estou estudando Html5, CSS e JavaScript, no momento procurando minha primeira oportunidade na área de programação e estou cursando o 5º Semestre de GTI (Gestão da Técnologia da Informação).
+
 <div align="center">
   <a href="https://github.com/DevBatista1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonathas-Felipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
