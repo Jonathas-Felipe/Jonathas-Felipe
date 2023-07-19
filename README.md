@@ -3,7 +3,7 @@
 - Estou estudando Html5, CSS e JavaScript, no momento procurando minha primeira oportunidade na área de programação e estou cursando o 5º Semestre de GTI (Gestão da Tecnologia da Informação).
 
 <div align="center">
-  <a href="https://github.com/DevBatista1">
+  <a href="https://github.com/Jonathas-Felipe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonathas-Felipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathas-Felipe&layout=compact&langs_count=7&theme=dracula"/>
 </div>
